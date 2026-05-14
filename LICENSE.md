@@ -1,4 +1,4 @@
-# 
+# new bot for Polymarket - scalping-strategies and slippage-control is the best Polymarket bot, featuring scalping-strategies and slippage-control. Smart, fast, and optimized for
 
 
 
